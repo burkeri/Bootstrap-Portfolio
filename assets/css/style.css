@@ -119,5 +119,17 @@ h5 {
     z-index: 1;
 }
 
+/* CONTACT FORM */
+
+.btn {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #4aaaa5;
+    color: white;
+}
+
+.btn:hover {
+    opacity: .6;
+}
+
 
 
