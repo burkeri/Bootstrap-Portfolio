@@ -61,6 +61,8 @@ img {
     margin-bottom: 20px;
 }
 
+/* FOOTER */
+
 #ftr {
     text-align: center;
     background: #666666;
@@ -73,6 +75,48 @@ h6 {
     text-align: center;
     color: #dddddd;
     font-size: 10px;
+}
+
+/* PORTFOLIO */
+
+.wrapper {
+    width: 70%;
+}
+
+.card {
+    display: inline;
+    width: 290px;
+    height: 240px;
+    border: none;
+}
+
+.card-body {
+    display: inline;
+    width: 290px;
+    height: 240px;
+    margin: 0;
+    padding: 0;
+}
+
+#pPics {
+    width: 250px;
+    height: 200px;
+    margin-bottom: 60px;
+    margin-right: 35px;
+}
+
+h5 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    margin: 0;
+    margin-top: 140px;
+    background: #4aaaa5;
+    box-sizing: border-box;
+    width: 250px;
+    padding: 15px;
+    position: absolute;
+    z-index: 1;
 }
 
 
